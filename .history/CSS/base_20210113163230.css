@@ -1,0 +1,6 @@
+/* 公共样式表 */
+.clearfix::before,
+.clearfix::after{
+    content:'';
+    display: table ;
+}

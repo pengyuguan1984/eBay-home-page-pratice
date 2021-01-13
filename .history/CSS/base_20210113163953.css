@@ -1,0 +1,11 @@
+/* 公共样式表 */
+.clearfix::before,
+.clearfix::after{
+    content:'';
+    display: table ;
+    clear:both;
+}
+b,ody {
+    font-family: "Market Sans", Arial, sans-serif; font:
+}
+
